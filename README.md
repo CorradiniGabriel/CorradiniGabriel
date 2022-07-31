@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Gabriel Kaucz Corradini 😁
+## Welcome to Gabriel Kaucz Corradini's profile 😁
 
  <div>
    <a href="https://github.com/CorradiniGabriel">
