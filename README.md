@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/CorradiniGabriel">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CorradiniGabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorradiniGabriel&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CorradiniGabriel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorradiniGabriel&layout=compact&langs_count=6&theme=merko"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -23,10 +23,11 @@
   <a href="https://instagram.com/corradinigabriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   
- 
+ <br>
   
    
  
   ![Snake animation](https://github.com/GabrielCorradini/GabrielCorradini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
