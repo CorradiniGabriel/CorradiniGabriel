@@ -11,7 +11,7 @@ I work in Customer Success, combining customer service and technology:
 
 ###  Featured projects
 
-- **[Verve-IA](https://corradinigabriel.github.io/verve-ia)** — AI-powered bank statement automation platform with parsers for 11+ Brazilian banks and automatic transaction classification.
+- **[Verve-IA](https://corradinigabriel.github.io/verve-ia)** — AI-powered bank statement automation platform with parsers for Brazilian banks and automatic transaction classification.
 - **[FinanceOS](https://corradinigabriel.github.io/financeos)** — Financial management PWA with voice commands, AI-generated monthly summaries and cash flow forecasting.
 
 ###  Tech stack
