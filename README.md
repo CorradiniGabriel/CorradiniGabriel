@@ -1,20 +1,20 @@
-## Olá, eu sou o Gabriel Kaucz Corradini 
+## Hi, I'm Gabriel Kaucz Corradini 
 
-**Customer Success na Perfecto** · Estudante de **IA Aplicada** na PUC-PR · Curitiba, PR
+**Customer Success at Perfecto** · **Applied AI** student at PUC-PR · Curitiba, Brazil
 
-Atuo em Customer Success unindo atendimento ao cliente e tecnologia:
+I work in Customer Success, combining customer service and technology:
 
--  Organizo **agentes de IA** para atendimento personalizado
--  Crio **automações** de processos e de comunicação com clientes (n8n, WhatsApp/Meta)
--  Faço implantação, treinamento e suporte de clientes
--  Desenvolvo aplicações web com React, Node.js e PostgreSQL
+-  I organize **AI agents** for personalized customer support
+-  I build **automations** for business processes and customer communication (n8n, WhatsApp/Meta)
+-  I handle client onboarding, training and support
+-  I develop web applications with React, Node.js and PostgreSQL
 
-###  Projetos em destaque
+###  Featured projects
 
-- **[Verve-IA](https://corradinigabriel.github.io/verve-ia)** — Plataforma de automação de extratos bancários com IA, parsers para mais de 11 bancos e classificação automática de transações.
-- **[FinanceOS](https://corradinigabriel.github.io/financeos)** — PWA de gestão financeira com comando de voz, resumos mensais por IA e projeção de fluxo de caixa.
+- **[Verve-IA](https://corradinigabriel.github.io/verve-ia)** — AI-powered bank statement automation platform with parsers for 11+ Brazilian banks and automatic transaction classification.
+- **[FinanceOS](https://corradinigabriel.github.io/financeos)** — Financial management PWA with voice commands, AI-generated monthly summaries and cash flow forecasting.
 
-###  Tecnologias
+###  Tech stack
 
 <div>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -28,7 +28,7 @@ Atuo em Customer Success unindo atendimento ao cliente e tecnologia:
   <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
 </div>
 
-###  Contato profissional
+###  Get in touch
 
 <div>
   <a href="https://www.linkedin.com/in/corradinigabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
